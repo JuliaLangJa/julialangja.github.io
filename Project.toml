@@ -1,3 +1,7 @@
 [deps]
 Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
 NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
+
+[compat]
+# The latest LTS (because currently Franklin.jl does not support v1.12)
+julia = "~1.10"
