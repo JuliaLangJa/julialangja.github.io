@@ -14,24 +14,24 @@
 ```
 ### [機関名 研究室名](研究室URL)
 
-- 箇条書きで Julia の活用事例など
-- 箇条書きで Julia の活用事例など
-- 箇条書きで Julia の活用事例など
-
 研究室の説明やアピールを好きなだけ
+
+- 箇条書きで Julia の活用事例など
+- 箇条書きで Julia の活用事例など
+- 箇条書きで Julia の活用事例など
 ```
 
 ## 研究室一覧
 
 ### [理化学研究所 少数多体系物理研究室](https://www.riken.jp/research/labs/rnc/few-body_syst_phys/index.html)
 
+ハドロンから原子分子までの少数多体系物理学の研究に活用しながら、いくつかのパッケージを開発・公開しています。
+
 - [Mass Ratio Dependence of Three-Body Resonance Lifetimes in 1D and 3D](https://arxiv.org/abs/2312.04080)
 - [Structure of Heavy Mesons in the Light-Front Quark Model](https://arxiv.org/abs/2401.07933)
 - [TwoBody.jl](https://github.com/ohno/TwoBody.jl)
 - [FewBodyToolkit.jl](https://github.com/lhapp27/FewBodyToolkit.jl)
 - [FewBodyToolkit.jl: a Julia package for solving quantum few-body problems](https://arxiv.org/abs/2510.04447)
-
-ハドロンから原子分子までの少数多体系物理学の研究に活用しながら、いくつかのパッケージを開発・公開しています。
 
 ## 謝辞
 
